@@ -3,7 +3,7 @@ I’m interested in learning AI, ML, Data scince
 I’m currently learning python
 I’m looking to collaborate on python.
 
-How to reach me tilal.almahdi@gmail.com
+How to reach me Tilal-Almahdi
 
 <!---
 Tilal-Almahdi/Tilal-Almahdi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
